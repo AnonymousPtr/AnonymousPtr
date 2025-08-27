@@ -1,6 +1,10 @@
 # 💫 About Me:
- I enjoy working with real-world datasets and building ideas into experimental projects  
- Fun fact: Learning is like a limit → ∞ cuz that's how i see it.
+👋🏻Hi! I'm Vinayak and I enjoy working with real-world datasets and building ideas into experimental projects.
+
+ <br>
+
+
+  Fun fact: Learning is like a limit → ∞ cuz that's how i see it XD
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-sharma-18a46436a/) 
